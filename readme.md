@@ -15,6 +15,7 @@ project to look at
 
 ##### Technologies used CSS3 + HTML5 + SAAS
 
+![Project page](./readme-images/banner.png)
 ![Project page](./readme-images/1.png)
 
 ![Project page](./readme-images/2.png)
